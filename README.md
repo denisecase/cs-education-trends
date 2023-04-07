@@ -426,3 +426,25 @@ Cornell University: TypeScript is used in some courses, including "Full-Stack We
 - University of Washington in Seattle: "Machine Learning" covers Deep Learning as a subfield of machine learning.
 - Cornell University: "Introduction to Deep Learning" covers Deep Learning as a subfield of machine learning.
 
+## Distributed AI and Agent-Based Systems
+
+Carnegie Mellon University
+
+The Distributed Intelligence Lab at Carnegie Mellon University focuses on developing intelligent systems that can operate in dynamic and uncertain environments. This includes work on multi-agent systems, distributed decision-making, and autonomous robotics.
+
+Stanford University
+
+The Multi-Agent Systems Lab at Stanford University focuses on developing intelligent systems that can collaborate with humans and other agents in complex environments. This includes work on multi-agent reinforcement learning, trust and reputation, and game theory.
+
+University of Southampton 
+
+The Agents, Interaction and Complexity Group at the University of Southampton focuses on developing agent-based models and systems that can simulate complex social and economic interactions. This includes work on agent-based modelling, social simulation, and network analysis.
+
+Oxford University
+
+The Autonomous Agents Research Group at Oxford University focuses on developing intelligent agents that can learn, reason, and interact with humans in real-world environments. This includes work on multi-agent systems, reinforcement learning, and natural language processing.
+
+Massachusetts Institute of Technology
+
+The Distributed Robotics Laboratory at MIT focuses on developing distributed robotic systems that can perform complex tasks in dynamic environments. This includes work on swarm robotics, distributed sensing, and multi-robot coordination.
+
