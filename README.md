@@ -8,6 +8,7 @@ Notes on computer science education - trends, topics
 - [CSTA Standards as PDF](https://drive.google.com/file/d/1-dPTAI1yk2HYPKUWZ6DqaM6aVUDa9iby/view)
 
 - [ACM Curricula Recommendations](https://www.acm.org/education/curricula-recommendations)
+- [ACM Computer Science (2013)]([Curriculum Guidelines for Undergraduate Programs in Computer Science](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf))
 - [ACM Data Science (2021)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/dstf_ccdsc2021.pdf)
 
 ## ACM Special Interest Group on CS Eduction (SIGCSE)
@@ -20,6 +21,12 @@ Notes on computer science education - trends, topics
 - [Tiobe Index - Languages](https://www.tiobe.com/tiobe-index/)
 - [RedMonk - Language Survey](https://redmonk.com/sogrady/category/programming-languages/)
 - [IEEE - Languages](https://spectrum.ieee.org/top-programming-languages-2022)
+
+## Open Source (OSSU)
+
+- [Open Source Society University](https://github.com/ossu/computer-science/blob/master/CURRICULAR_GUIDELINES.md)
+- [OSSU Computer Science](https://github.com/ossu/computer-science)
+- [OSSU Data Science](https://github.com/ossu/data-science)
 
 ## Some Universities 
 
