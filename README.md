@@ -8,7 +8,7 @@ Notes on computer science education - trends, topics
 - [CSTA Standards as PDF](https://drive.google.com/file/d/1-dPTAI1yk2HYPKUWZ6DqaM6aVUDa9iby/view)
 
 - [ACM Curricula Recommendations](https://www.acm.org/education/curricula-recommendations)
-- [ACM Computer Science (2013)]([Curriculum Guidelines for Undergraduate Programs in Computer Science](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf))
+- [ACM Computer Science (2013)](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf)
 - [ACM Data Science (2021)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/dstf_ccdsc2021.pdf)
 
 ## ACM Special Interest Group on CS Eduction (SIGCSE)
