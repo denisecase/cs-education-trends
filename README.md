@@ -11,6 +11,8 @@ Notes on computer science education - trends, topics
 - [ACM Computer Science (2013)](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf)
 - [ACM Data Science (2021)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/dstf_ccdsc2021.pdf)
 
+- [ASA Data Science (2017)](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf)
+
 ## ACM Special Interest Group on CS Eduction (SIGCSE)
 
 - https://dl.acm.org/doi/proceedings/10.1145/3545947
