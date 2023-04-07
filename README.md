@@ -3,22 +3,23 @@ Notes on computer science education - trends, topics
 
 ## Curriculum for CS Education
 
+- [CSTA K-12 Standards](https://csteachers.org/Page/standards)
+- [CSTA Progression Chart](https://csteachers.org/documents/en-us/d227e2a4-ce35-434e-a20b-24355d11b015/1/)
+- [CSTA Standards as PDF](https://drive.google.com/file/d/1-dPTAI1yk2HYPKUWZ6DqaM6aVUDa9iby/view)
+
+- [ACM Curricula Recommendations](https://www.acm.org/education/curricula-recommendations)
+- [ACM Data Science (2021)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/dstf_ccdsc2021.pdf)
+
 ## ACM Special Interest Group on CS Eduction (SIGCSE)
 
 - https://dl.acm.org/doi/proceedings/10.1145/3545947
 
-## Common Technologies
+## Common Trends
 
-- Python
-- Java
-- C/C++
-- SQL
-- JavaScript
-- HTML/CSS
-- Git
-- Linux/Unix
-- Docker
-- Kubernetes
+- [GitHub Octoverse - state of Open Source on GitHub](https://octoverse.github.com/)
+- [Tiobe Index - Languages](https://www.tiobe.com/tiobe-index/)
+- [RedMonk - Language Survey](https://redmonk.com/sogrady/category/programming-languages/)
+- [IEEE - Languages](https://spectrum.ieee.org/top-programming-languages-2022)
 
 ## Some Universities 
 
@@ -33,6 +34,19 @@ Notes on computer science education - trends, topics
 - [University of Texas at Austin Computer Science Courses](https://catalog.utexas.edu/undergraduate/natural-sciences/courses/computer-science/)
 - [University of Washington in Seattle Computer Science and Engineering Courses](https://www.cs.washington.edu/education/courses)
 - [Cornell University Computer Science Courses](https://classes.cornell.edu/browse/roster/SP22/subject/CS)
+
+## Often Taught at University Level
+
+- Python
+- Java
+- C/C++
+- SQL
+- JavaScript
+- HTML/CSS
+- Git
+- Linux/Unix
+- Docker
+- Kubernetes
 
 ## Analytics - General
 
